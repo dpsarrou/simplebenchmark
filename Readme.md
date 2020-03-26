@@ -14,4 +14,4 @@ Run the single dimension array test:
 
 Run the multidimensional array test:
 
-    make run2
+    make run-multidimensional
