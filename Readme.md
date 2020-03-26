@@ -8,6 +8,10 @@ Build the container (once):
 
     make build
 
-Run the test:
+Run the single dimension array test:
 
     make run
+
+Run the multidimensional array test:
+
+    make run2
